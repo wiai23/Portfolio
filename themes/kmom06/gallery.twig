@@ -1,0 +1,19 @@
+{% include 'incl/header.twig' %}
+
+<body>
+    {% include 'incl/nav.twig' %}
+
+    <div class="main" role="main">
+        <div class="gallery">
+            {{ content }}
+        </div>
+
+        <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/eSs-FeG-TLM" frameborder="0" allowfullscreen title="video"></iframe>
+        </div>
+    </div>
+
+    {% include 'incl/footer.twig' %}
+</body>
+
+</html>

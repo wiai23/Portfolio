@@ -62,11 +62,14 @@ Det är väldigt tydligt när man jämför Nordens Ark och Aftonbladet med att a
 
 Referenser
 -----------------------
-<li><a href="https://color.adobe.com/create/color-wheel">Adobe color wheel</a></li>
-<li><a href="https://chromewebstore.google.com/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp?hl=en-US&utm_source=ext_sidebar">Color picker tool - geco</a></li>
-<li><a href="https://seb.se/">SEB</a></li>
-<li><a href="https://www.aftonbladet.se/">Aftonbladet</a></li>
-<li><a href="https://nordensark.se/">Nordens Ark</a></li>
+
+<ul>
+    <li><a href="https://color.adobe.com/create/color-wheel">Adobe color wheel</a></li>
+    <li><a href="https://chromewebstore.google.com/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp?hl=en-US&utm_source=ext_sidebar">Color picker tool - geco</a></li>
+    <li><a href="https://seb.se/">SEB</a></li>
+    <li><a href="https://www.aftonbladet.se/">Aftonbladet</a></li>
+    <li><a href="https://nordensark.se/">Nordens Ark</a></li>
+</ul>
 
 Övrigt
 -----------------------

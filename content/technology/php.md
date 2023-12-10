@@ -10,13 +10,11 @@ PHP är ett populärt skriptspråk som främst används för att skapa webbplats
 
 PHP är ett objekt-orienterad programmeringsspråk, som med senare versioner kan vara hård typat och till och med JIT.
 
-Ett program som skriver ut alla jämna siffror mellan 1 och 100 kan se ut på följande sätt i JavaScript:
-
-```php
-<?php
-for ($i = 1; $i <= 100; $i++) {
-    if (!($i % 2)) {
-        print($i);
-    }
+Ett program som skriver ut alla jämna siffror mellan 1 och 100 kan se ut på följande sätt i PHP:
+  
+<?php  
+for ($i = 1; $i <= 100; $i++) {  
+&nbsp;&nbsp;&nbsp;&nbsp;if (!($i % 2)) {  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print($i);  
+&nbsp;&nbsp;&nbsp;&nbsp;}  
 }
-```

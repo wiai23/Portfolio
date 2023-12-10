@@ -12,6 +12,5 @@ HTML beskriver innehåll och struktur för våra webbplatser och gör det möjli
 
 HTML använder sig av element beskrivna av taggar. Nedan är ett exempel på ett textstycke med en länk i:
 
-```html
-<p>En länk till min <a href="minwebbplats.html">webbplats</a></p>
-```
+
+&lt;p>En länk till min &lt;a href="minwebbplats.html">webbplats&lt;/a>&lt;/p>

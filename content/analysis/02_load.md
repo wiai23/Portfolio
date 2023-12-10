@@ -16,7 +16,7 @@ Vid insamling av mätvärden använde jag <a href="https://pagespeed.web.dev/">G
 Resultat
 -----------------------
 <div class="embed-container">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDdNP9V-_YWxE1i4dCwQYYIf-a2kk37YGrCO_rLYGSJ4K7GMIpHgvU1s5w-7bNCdFhOqazj3A57wsa/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDdNP9V-_YWxE1i4dCwQYYIf-a2kk37YGrCO_rLYGSJ4K7GMIpHgvU1s5w-7bNCdFhOqazj3A57wsa/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" title="Mätvärden"></iframe>
 </div>
 
 

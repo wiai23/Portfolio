@@ -1,0 +1,60 @@
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables';
+
+@import 'blockquotes';
+@import 'code';
+@import 'technology';
+@import 'gallery';
+
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@300&family=Roboto&display=swap');
+
+
+.main {
+    background-color: $background-color;
+    margin: auto;
+    width: 70%;
+    border: 3px solid $header-color;
+    padding: 15px;
+}
+
+* {
+    color: $font-color;
+}
+
+.nav a:hover {
+  color: lime;
+  text-decoration: none;
+}
+
+.header {
+  background-color: $header-color;
+}
+
+.footer {
+  background-color: $footer-color;
+  height: 177px;
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 85%;
+    height: 70%;
+  }
+  
